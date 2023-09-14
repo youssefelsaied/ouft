@@ -1,0 +1,41 @@
+import 'package:flutter/material.dart';
+import 'package:flutter/cupertino.dart';
+
+Color kMainColor = Color(0xff33BBC5);
+Color kMain2Color = Color(0xff33BBC5);
+Color kMain3Color = Color(0xff33BBC5);
+Color kMain4Color = Color(0xff33BBC5);
+Color kDisabledColor = Color(0xffB3B3B3);
+Color kSearchColor = Color(0xff767680);
+Color kTextColor = Color(0xFFACB7CA);
+Color kBackIconColor = Color(0xFFACB7CA);
+Color kWhiteColor = Colors.white;
+Color kLightTextColor = Color(0xffD2D2D2);
+Color kPurbleColor = Color(0xff8E44AD);
+
+Color kCardBackgroundColor = Color.fromARGB(255, 246, 246, 246);
+Color kTransparentColor = Colors.transparent;
+Color kMainTextColor = Color(0xff000000);
+Color kDisabledTextColor = Color(0xffA1A1A1);
+Color kCardColor = Color(0xffF7F7F9);
+
+Color kIconColor = Color(0xffc4c8c1);
+Color kHintColor = Color(0xff3C3C43);
+Color kSwitchColor = const Color.fromRGBO(43, 154, 216, 0.34);
+Color kSecondTitleColor = const Color.fromRGBO(43, 154, 216, 1);
+Color ksecondTextColor = const Color(0xff808080);
+Color kContainerTextColor = Color(0xff606060);
+Color kButtonColor = const Color(0xfffafafa);
+Color kButtonBorderColor = const Color(0xffe1e1e1);
+Color kButtonTextColor = const Color(0xffbababa);
+Color kContainerShadowColor = const Color(0xff87fddc82);
+Color kLighterTextColor = const Color(0xffFFFFFF);
+Color inProcessColor = const Color(0xffF1BC23);
+Color starColor = Colors.amber;
+Color textFieldColor = Color(0xff7c7c7c);
+Color lightGreyColor = Color(0xffacacac);
+Color lightBlueColor = Color(0xffEBF1F4);
+Color black2 = Color(0xff4d4d4d);
+Color KGold = Color(0xffFFB02A);
+Color kRedColor = Colors.red;
+Color kBoldMainColor = Color(0xff4FA6D8);

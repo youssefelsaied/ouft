@@ -1,0 +1,324 @@
+{
+  "selected_language": "English",
+  "selected_language_code": "en",
+  "language": "Language",
+  "@language":{
+    "description": "The current Language"
+  },
+  "live_longer": "Live longer \nwith healthy food ",
+  "@live_longer":{
+    "description": "The live_longer btn"
+  },
+  "lorem": "Lorem Ipsum is simply dummy text of the printing and typesetting",
+  "@lorem":{
+    "description": "The lorem txt"
+  },
+  "choose_language": "Choose your Language ",
+  "@choose_language":{
+    "description": "The choose_language txt"
+  },
+  "dont_have_account": "Don’t have an account?",
+  "@dont_have_account":{
+    "description": "The don't_have_account btn"
+  },
+  "take_a_tour": "Take a tour",
+  "@take_a_tour":{
+    "description": "The Take a tour btn"
+  },
+  "login": "Login",
+  "@login":{
+    "description": "The login btn"
+  },
+  "login_with": "Login with",
+  "@login_with":{
+    "description": "The login_with btn"
+  },
+  "or": "or",
+  "@or":{
+    "description": "The or btn"
+  },
+  "google": "Google",
+  "@google":{
+    "description": "The Google btn"
+  },
+  "twitter": "Twitter",
+  "@twitter":{
+    "description": "The Twitter btn"
+  },
+  "facebook": "Facebook",
+  "@facebook":{
+    "description": "The facebook btn"
+  },
+  "apple": "Apple Id",
+  "@apple":{
+    "description": "The apple btn"
+  },
+  "login_email": "Login with email",
+  "@login_email":{
+    "description": "The login_email btn"
+  },
+  "welcome_back": "Welcome back",
+  "@welcome_back":{
+    "description": "The welcome_back txt"
+  },
+  "first_name": "First Name",
+  "@first_name":{
+    "description": "The first_name txt"
+  },
+  "last_name": "Last Name",
+  "@last_name":{
+    "description": "The last_name txt"
+  },
+  "password": "Password",
+  "@password":{
+    "description": "The password txt"
+  },
+  "i_forget_my_password": "I forget my password",
+  "@i_forget_my_password":{
+    "description": "The i_forget_my_password btn"
+  },
+  "lets_start": "Let’s Start Your\nHealty Life",
+  "@lets_start":{
+    "description": "The lets_start txt"
+  },
+  "email": "Email",
+  "@email":{
+    "description": "The email txt"
+  },
+  "phone": "Phone number",
+
+  "re_password": "Verify Password",
+  "@re_password":{
+    "description": "The Verify txt"
+  },
+  "sign_up": "Sign up",
+  "@sign_up":{
+    "description": "The sign_up txt"
+  },
+  "already_have_account": "Already have an account ?",
+  "home": "Home",
+  "@home":{
+    "description": "home txt"
+  },
+  "work": "Work",
+  "@work":{
+    "description": "work txt"
+  },
+  "add_other_location": "New Location",
+  "address_name": "Address name",
+  "address_details": "Address details",
+  "building": "building",
+  "floor": "floor",
+  "door": "door",
+  "more_details": "More Details",
+  "select_your_location": "Select your location",
+  "confirm": "Confirm",
+  "deliver_to": "  Deliver to :  ",
+  "choose_your_food_category": "Choose your Food Category",
+  "packages": "Packages",
+  "change_delivery_time": "Change Delivery Time ",
+  "start": "start",
+  "checkout": "Check Out",
+  "place_order": "Place Order",
+  "active": "Active",
+  "previous": "Previous",
+  "plan": "Plan",
+  "active_plan": "Active Plan",
+  "previous_plan": "Previous Plan",
+  "main": "Home",
+  "my_plan": "My Plan",
+  "offers": "Offers",
+  "no_offers": "No Offers",
+  "code_copied": "Code Copied",
+  "notification": "Notifications",
+  "you_dont_have_notification": "you don't have Notification",
+  "gifts": "Gifts",
+  "you_dont_have_gifts": "you don't have gifts",
+  "t_c": "Terms & conditions",
+  "feedback": "feedback",
+  "send_feedback": "Send us your feedback!",
+  "feedback_suggestion": "Do you have a suggestion or some issue \n let us know in the field below ",
+  "how_was_experience": "How was your experience",
+  "tell_a_friend": "Tell a friend",
+  "settings": "Settings",
+  "logout": "Log Out",
+  "egyptian_currency": "EGP",
+  "saudi_currency": "SAR",
+  "days" : "days",
+  "select": "Select",
+  "selected": "Selected",
+  "protein": "Protein",
+  "carb": "Carb",
+  "calories": "Calories",
+  "fats": "Fats",
+  "back": "Back",
+  "coupon_usage": "You have applied ",
+  "off": "Off",
+  "remove" : "Remove",
+  "enter" : "Enter ",
+  "add" : "Add ",
+  "checking" : "Checking ",
+  "promo_code" : "Promo Code",
+  "invalid_code": "the code is invalid !",
+  "choose_country": "Choose your Country ",
+  "choose_area": "Choose your Area ",
+  "select_city": "Select City",
+  "select_area": "Select Area",
+  "egypt": "Egypt",
+  "saudi_arabia": "Saudi Arabia",
+  "setting": "Setting",
+  "camera": "Camera",
+  "gallery": "Gallery",
+  "save_changes": "Save",
+  "yes": "Yes",
+  "no": "No",
+  "editing_profile": "Editing Profile ...",
+  "ok": "Ok",
+  "delivery_details": "Delivery details",
+  "subtotal": "Subtotal",
+  "discount": "Discount",
+  "total": "Total",
+  "need_help": "Need Help ?",
+  "help_center": "Brunchen Help Center",
+  "help_center_text": "how can we help you ?",
+  "cancel_meal": "Cancel this Meal",
+  "edit_meal": "Edit Meal",
+  "change_meal": "Change Meal",
+  "change_time": "Change Time",
+  "change_location": "Change Location",
+  "change_day": "Change Day",
+  "account": "Account",
+  "favorite": "Favorites",
+  "orders": "Orders",
+  "appoiment": "Appointments",
+  "hospitals": "Hospitals",
+  "products": "Products",
+  "medical_products": "Medical products",
+  "medical_centers": "Medical centers",
+  "doctors": "Doctors",
+  "categories": "Categories",
+  "morning": "Good Morning",
+  "hi": "Hi",
+  "cart": "Cart",
+  "select_new_meal": "select new meal",
+  "select_new_time": "select new time",
+  "select_new_location": "select new location",
+  "edit_meal_confirm": "Confirm Meal Edit",
+  "edit_meal_confirm_text": "Are you sure you want to edit ?",
+  "cancel_meal_text": "if you want to cancel this day meal you will need to reschedule this meal to another day",
+  "no_cancel_edit": "you can't cancel or edit the meal after 6 am please contact us for more info.",
+  
+
+
+
+
+  "search_here": "search here ...",
+  "clinics": "Clinics",
+  "mediciens": "Mediciens",
+  "mediciens_delivery": "Medicien Delivery",
+  "healthy_food": "Healthy Food",
+  "labs": "Labs",
+  "med_repo":"medical reports external and domestic",
+  "consulting":"Consulting over the phone",
+  "local": "local",
+  "external": "External",
+  "medical_report": "Medical Report",
+  "medical_reports": "Medical Reports",
+  "doctors_name": "Doctor's name",
+  "patient_name": "Patient name",
+  "report_summary": "Report summary",
+  "ratings": "Ratings",
+  "the_number_of_hospital_visitors": "hospital visitors",
+  "existing_doctors": "Existing doctors",
+  "hospital_services": "Hospital services",
+  "appointment_booking": "Book Appointment",
+  "book_a_hospital_appointment":"Book a hospital appointment",
+  "choose_doctor": "Choose Doctor",
+  "choose_service": "Choose Service",
+  "time": "Time",
+  "cost": "Cost",
+  "thank_you": "Thank you",
+  "your_appointment_has_been_successfully_booked_please": "Your appointment has been successfully booked. Please pay to get an appointment with the chosen doctor",
+  "date": "date",
+  "address": "address",
+  "pay_in_the": "pay in the",
+  "about_doctor": "About The Doctor",
+  "clinic_details": "clinic details",
+  "other_clinics": "other clinics",
+  "coming": "Coming",
+  "completed": "Completed",
+  "canceled": "Canceled",
+
+
+  "search": "search",
+  "search_txt": "search for elements",
+
+  "book1team": "Book a team",
+  "book2teams": "Book 2 teams",
+  "facilities_and_services": "facilities and services",
+  "extra_info": "extra Info",
+
+  "suggestions": "suggestions",
+  "matches": "matches",
+  "matches_txt": "all avilable matches",
+  "teams":"The teams",
+  "playoffs":"The playoffs",
+  
+
+
+
+  "current_password": "current password",
+  "new_password": "new password",
+  "current_email": "current email",
+  "new_email": "new email",
+  "current_phone": "current phone",
+  "new_phone": "new phone",
+
+
+  "skip": "Skip",
+
+  "have_account": "Do you have an Account",
+  "create_new_account": "create new account",
+  "create_account": "Create account",
+  "login_to_follow": "Login to see what's new",
+  "remember_me": "remember me",
+  "register_to_follow": "Register to see what's new",
+
+  
+
+
+  "description": "description",
+  "ingredients": "Ingredients",
+  "similar_drugs": "Similar Drugs",
+  "add_to_cart": "Add to Cart",
+  "drug_delivery": "Drug Deliver",
+  "food_contains_protien": "Food contains protien",
+  "food_contains_sugar": "Food contains sugar",
+  "benifits": "benifits",
+  "food_pictures": "Food pictures",
+  "indications" :"Indications",
+
+
+
+
+
+
+  "cancel_request": "Cancel Request",
+  "cancel_request_text": "your request has been submitted to the admin to review. we will let you know when the admin response",
+  "cancel_plan": "Cancel The plan",
+  "cancel_plan_confirm": "Confirm Canceling The plan",
+  "cancel_plan_confirm_text": "Are you sure you want to cancel this plan ?",
+
+  "send" : "Send",
+  "view_all" : "view all",
+  "help" : "Help",
+  "help_text" : "If you are facing a problem, you can send a message and we will contact you as soon as possible",
+  "error" : "error",
+  "error_text": "error occurred ,please try again later",
+  "edit_success": "Edit Success",
+  "edit_success_text": "Edit Done Successfully",
+  
+  
+  "logout_txt": "Are you sure you want to Logout ?"
+
+}
